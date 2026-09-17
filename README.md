@@ -1,1 +1,2 @@
-# ugeopgave-3-methods
+# Mathias Jacob Steenvinkel
+# mast1006@stud.ek.dk
